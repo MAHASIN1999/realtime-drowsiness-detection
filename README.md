@@ -6,10 +6,6 @@ It aims to develop a real-time drowsiness detection system for individuals in a 
 
 Project Contributors
  - **Mahasin Hossen Munshi**
- - **Mayukh Das**
- - **Debarpan Jana**
- - **Bitan Guha Roy**
- - **Madhurima Sen**
 
 The github repo consists of 6 jupyter notebook files each of which performs a specific subtasks of the overall project.
 We have used [kaggle](https://www.kaggle.com) for training , have to somehow manage with  **GPU Tesla P100** 30 hrs of weekly quota.
